@@ -1,6 +1,6 @@
 # moreabstract.xyz
 
-![moreabstract.xyz](https://github.com/vitorjaguat/auction-page3/blob/main/public/img/moreabstract.png)
+![moreabstract.xyz](https://github.com/vitorjaguat/moreabstract/blob/main/public/img/moreabstract.png)
 
 ## Summary
 
