@@ -25,13 +25,13 @@ export default function Hero() {
         rel='noopener noreferrer'
       >
         <div
-          className='absolute p-8 bottom-2 sm:bottom-full sm:top-4 flex right-2 sm:right-4 w-[120px] sm:w-[140px] h-[150px] sm:h-[180px]'
+          className='absolute p-8 bottom-4 sm:bottom-full sm:top-6 flex right-2 sm:right-4 lg:right-8 w-[90px] sm:w-[140px] h-[150px] sm:h-[180px]'
           style={{ color: '#d1d1d1' }}
         >
           <Image
-            src='/img/logo-pvg-black.svg'
+            src='/img/logo-pvg.svg'
             fill
-            className='object-cover'
+            className='object-contain'
             alt='Portas Vilaseca Galeria'
             style={{ color: '#d1d1d1' }}
           />

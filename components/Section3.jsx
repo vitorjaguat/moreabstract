@@ -1,4 +1,5 @@
-import Section3CardItem from './Section3CardItem';
+import Section3Card from './Section3Card';
+import series from '../data/series.json';
 import Detail from '../components/Detail';
 import detail1 from '../public/img/detail/001.jpg';
 import detail2 from '../public/img/detail/002.jpg';
@@ -23,7 +24,9 @@ const listingIds3 = [
 ];
 const listingIds4 = [5183, 5184, 5185, 5186, 5187, 5188, 5189, 5190, 5191];
 
-export default function Section3() {
+const seriesById = Object.fromEntries(series.map((item) => [item.id, item]));
+
+export default function Section3({ listings = {} }) {
   // const openseaLinks =
   //   typeof window !== 'undefined'
   //     ? document.querySelectorAll('.m-interactive-button[data-v-03da633b] span')
@@ -58,7 +61,10 @@ export default function Section3() {
       <div className='w-full pt-20 pb-20 px-4 sm:px-20 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 sm:gap-6'>
         {listingIds1.map((listingId) => (
           <div className='rounded-sm bg-slate-900 h-fit' key={listingId}>
-            <Section3CardItem id={listingId} />
+            <Section3Card
+              item={seriesById[listingId]}
+              listing={listings[listingId]}
+            />
           </div>
         ))}
       </div>
@@ -67,7 +73,10 @@ export default function Section3() {
       <div className='w-full pt-20 pb-20 px-4 sm:px-20 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 sm:gap-6'>
         {listingIds2.map((listingId) => (
           <div className='rounded-sm bg-slate-900 h-fit' key={listingId}>
-            <Section3CardItem id={listingId} />
+            <Section3Card
+              item={seriesById[listingId]}
+              listing={listings[listingId]}
+            />
           </div>
         ))}
       </div>
@@ -76,7 +85,10 @@ export default function Section3() {
       <div className='w-full pt-20 pb-20 px-4 sm:px-20 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 sm:gap-6'>
         {listingIds3.map((listingId) => (
           <div className='rounded-sm bg-slate-900 h-fit' key={listingId}>
-            <Section3CardItem id={listingId} />
+            <Section3Card
+              item={seriesById[listingId]}
+              listing={listings[listingId]}
+            />
           </div>
         ))}
       </div>
