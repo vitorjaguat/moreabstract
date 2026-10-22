@@ -19,18 +19,6 @@ html {
   font-size: small;
 }
 
-/* do not display image on Click to learn more card */
-.no-image img {
-  display: none;
-}
-
-.no-image .m-lazy-music audio[data-v-ba734e87] {
-  width: 90%;
-  height: 2.7rem;
-  display: flex;
-  justify-content: space-between;
-}
-
 .m-attribute {
   display: flex !important;
   justify-content: space-between !important;

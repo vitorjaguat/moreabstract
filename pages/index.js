@@ -15,6 +15,7 @@ import Section6 from '../components/Section6';
 import Vista from '../components/Vista';
 import { getListings } from '../lib/listings';
 import series from '../data/series.json';
+import click from '../data/click.json';
 import vista2 from '../public/img/vistas/002.jpg';
 import vista3 from '../public/img/vistas/003.jpg';
 import vista4 from '../public/img/vistas/004.jpg';
@@ -39,7 +40,7 @@ export default function Home({ listings }) {
       {/* <Detail /> */}
       <Vista img={vista2} />
       <Section3 listings={listings} />
-      <Section4 />
+      <Section4 listings={listings} />
 
       <Section5 />
 
@@ -61,7 +62,7 @@ export async function getStaticProps({ locale }) {
     props: {
       ...(await serverSideTranslations(locale, ['common'])),
       // Live price/status from the Manifold marketplace contract, refreshed at most once a minute.
-      listings: await getListings(series.map((item) => item.id)),
+      listings: await getListings([...series.map((item) => item.id), click.id]),
     },
     revalidate: 60,
   };
