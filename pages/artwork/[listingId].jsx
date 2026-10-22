@@ -1,5 +1,5 @@
 import Connect from '../../components/Connect';
-import Listing from '../../components/Listing';
+import ListingGate from '../../components/ListingGate';
 import WarmUp from '../../components/WarmUp';
 import artworks from '../../data/artworks.json';
 import { useRouter } from 'next/router';
@@ -26,7 +26,8 @@ export default function ListingID({ listingId, artwork }) {
 
       {/* ~~ Add Marketplace Widget component ~~ */}
       <div className='md:max-w-[1100px] mx-auto listing'>
-        <Listing
+        <ListingGate
+          key={listingId}
           id={listingId}
           // network={process.env.NEXT_APP_NETWORK}
           // id={'4250'}

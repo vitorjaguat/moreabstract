@@ -8,6 +8,7 @@ import { ParallaxProvider } from 'react-scroll-parallax';
 import { appWithTranslation } from 'next-i18next';
 import { Analytics } from '@vercel/analytics/react';
 import Script from 'next/script';
+import useHomeScrollRestore from '../components/useHomeScrollRestore';
 
 //SEO & Head:
 import Head from 'next/head';
@@ -30,6 +31,7 @@ const din = localFont({
 function MyApp({ Component, pageProps }) {
   // The claims widget is only used on the home page (Section 6) and /claim.
   const { pathname } = useRouter();
+  useHomeScrollRestore();
   const needsClaims = pathname === '/' || pathname === '/claim';
 
   /**
