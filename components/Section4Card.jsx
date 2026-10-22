@@ -1,12 +1,15 @@
 import Link from 'next/link';
 import { CardButton, PriceLine, StatusBadge } from './CardParts';
+import useWarmOnView from './useWarmOnView';
 
 // Static replica of Manifold's `m-card-catalog` widget for an audio token:
 // no image, a native player instead. Title/audio come from data/click.json,
 // price/status from getListings().
 export default function Section4Card({ item, listing }) {
+  const warmRef = useWarmOnView(item.id);
+
   return (
-    <div className='group relative grid border border-white/60 bg-[#333] text-white/[.87] transition-colors duration-200 hover:border-white hover:bg-[#3d3d3d]'>
+    <div ref={warmRef} className='group relative grid border border-white/60 bg-[#333] text-white/[.87] transition-colors duration-200 hover:border-white hover:bg-[#3d3d3d]'>
       <div className='relative flex min-h-[100px] items-center justify-center pb-3 pt-14'>
         {listing && <StatusBadge listing={listing} />}
         {/* Outside the link on purpose: using the controls must never navigate. */}

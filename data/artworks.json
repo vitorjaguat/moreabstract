@@ -1,0 +1,296 @@
+{
+  "5155": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "1",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/1",
+    "originalImage": "https://arweave.net/Z9oxfGtzeFPrxyKu1PBKtKT0VjI7JDaTXVjowtCSsiY",
+    "cdnImage": "https://assets.manifold.xyz/optimized/58c6aa618be09ce1fb01aa5396379af4f4bd5aea7ba7880abd08bc31d2c43b80/w_1000.jpg"
+  },
+  "5156": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "2",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/2",
+    "originalImage": "https://arweave.net/TCBiUdTXKYshH6kkJ8Ohhi7T_WZkSqRyh4qoKDREUKo",
+    "cdnImage": "https://assets.manifold.xyz/optimized/8d194d6f7ad84fb85fd6379f22741735e1678e0655ae113cfa1b2b848ea4c400/w_1000.jpg"
+  },
+  "5157": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "3",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/3",
+    "originalImage": "https://arweave.net/WvDIvCwJ8oLTN2yfG9KeDl3mRwONGTO8svOPrkhPPPg",
+    "cdnImage": "https://assets.manifold.xyz/optimized/b99ea72fac0c325a01ec61134c245881131e8158fd003cabcabce8407de362e0/w_1000.jpg"
+  },
+  "5158": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "4",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/4",
+    "originalImage": "https://arweave.net/ToCIwxiy-tCNEA0XgWBmgEBln1QrLE5DKBJR36Zxku4",
+    "cdnImage": "https://assets.manifold.xyz/optimized/c80cb14180b1862b80c68af367395a30ee418d0f43a1d64f86e2fba23e49d779/w_1000.jpg"
+  },
+  "5159": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "5",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/5",
+    "originalImage": "https://arweave.net/VUvpVDchhLlqVgnbDzQSF1wiXIWbT1k1gLwXCW-ZeI8",
+    "cdnImage": "https://assets.manifold.xyz/optimized/515d199c0396b5667665cd55cc292ee60d73ba4c2e188564f59cc05ecef57533/w_1000.jpg"
+  },
+  "5160": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "6",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/6",
+    "originalImage": "https://arweave.net/hhgo9sQ1SQ3krB3EC1OQ5Dnk8FwpYFV1ZtzAKRx6V2w",
+    "cdnImage": "https://assets.manifold.xyz/optimized/73624b9b7e2fa842d51f129ab4200ae48d542c0631f4ca1a2e4b6f6c603ce214/w_1000.jpg"
+  },
+  "5161": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "7",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/7",
+    "originalImage": "https://arweave.net/rNfanGQO1uV7Mq2U1RXrIQgfu52yb3j-CtQucWiYdVQ",
+    "cdnImage": "https://assets.manifold.xyz/optimized/23992a2666e35d425c8547b5b89349f05d7292450698d767bf8c9a95e5aad774/w_1000.jpg"
+  },
+  "5163": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "8",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/8",
+    "originalImage": "https://arweave.net/X7SD8vpexuTrZyP4ZTu-2OhmeDII2SCE2ycxSETEdUM",
+    "cdnImage": "https://assets.manifold.xyz/optimized/0ad55944a2b2f9220429f3af08b09057a7884b8833285d62f40141a93e18019b/w_1000.jpg"
+  },
+  "5164": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "9",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/9",
+    "originalImage": "https://arweave.net/kT4DBxZSDBoP9PP6mO6qeR9yxqKfPw_L21HLA2iG6lY",
+    "cdnImage": "https://assets.manifold.xyz/optimized/2335cffc44e45795d807eeff5d54d4f67e03be2b298486bd89b5540a1dacd183/w_1000.jpg"
+  },
+  "5165": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "10",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/10",
+    "originalImage": "https://arweave.net/Qq9oXAFF1CuCh_aRg-uPz2UgcyhPc08AmAzCkDkadZE",
+    "cdnImage": "https://assets.manifold.xyz/optimized/9ee3015d377f0b7de84ab8bb0b293a824e6d627fbd4bfa7000e829c07a456116/w_1000.jpg"
+  },
+  "5166": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "11",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/11",
+    "originalImage": "https://arweave.net/JJqcqkMR7uId3dVsdF-dTBZNe-2mqQHg6g0qkEm-pus",
+    "cdnImage": "https://assets.manifold.xyz/optimized/1fabcc3b06293b140a2b1b0c575c4ac47f949d1bcbbfed7a8e635f47c7b241a6/w_1000.jpg"
+  },
+  "5167": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "12",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/12",
+    "originalImage": "https://arweave.net/Cxy7CpwMIGmez1jYoS8B2GWJQ8ToB3rSV5ZgrMw0iv8",
+    "cdnImage": "https://assets.manifold.xyz/optimized/69b781f7450018bba955878ac779e8ebac8c54be8932affa8d924ce3f30ffe6a/w_1000.jpg"
+  },
+  "5168": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "13",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/13",
+    "originalImage": "https://arweave.net/tmirgDesNh-PDNLP-tSwCts_zu2WAnm6YmETU_CAqZM",
+    "cdnImage": "https://assets.manifold.xyz/optimized/653e5b9ab84a3117dba924765d7ac874da2ccdf6dbbbd018b986bf88644bf427/w_1000.jpg"
+  },
+  "5169": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "14",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/14",
+    "originalImage": "https://arweave.net/MZbDPl5tmFHrd1Hq4jhWI5mTKfqopFYU6Ok7Y3GxsAU",
+    "cdnImage": "https://assets.manifold.xyz/optimized/a110a58753495163958f17dad7213dbda4ecea8b0a7674f0640342f62aab5e74/w_1000.jpg"
+  },
+  "5170": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "15",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/15",
+    "originalImage": "https://arweave.net/4kr-jC6PT7Xpr83EPd8N8TAy8rhLXsbepebpPMzSpZw",
+    "cdnImage": "https://assets.manifold.xyz/optimized/26038d4140ce58b373ac9c6985966382487e508fece9a379cd535bf1752c526d/w_1000.jpg"
+  },
+  "5171": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "16",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/16",
+    "originalImage": "https://arweave.net/Sr7A2kDnkT8XBSGOp60wnta6FvXHPGeujRAHTulqvQY",
+    "cdnImage": "https://assets.manifold.xyz/optimized/7db13bc943f3f982cb92f5a726fc568110e69e8b49d50b48476bddc0e17d78f5/w_1000.jpg"
+  },
+  "5172": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "17",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/17",
+    "originalImage": "https://arweave.net/QLgBzPKnNFShIcSrS-M0xy-hO89Mq9JyDbZuINWDHFE",
+    "cdnImage": "https://assets.manifold.xyz/optimized/c182f249fc7df7d72f95429d7c2cb92c716ebd38145c12fc35d6e8ca2c4d990b/w_1000.jpg"
+  },
+  "5173": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "18",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/18",
+    "originalImage": "https://arweave.net/4lPPvx4b7rjPcF5eqJNzR4mCmV8Fb7c7BFIFQuvbQW4",
+    "cdnImage": "https://assets.manifold.xyz/optimized/e6aac294bed743a69267f963120cfc89ceaeb9d44086a932bfd7c3b8cfb32762/w_1000.jpg"
+  },
+  "5174": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "19",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/19",
+    "originalImage": "https://arweave.net/zEL_UNFNNwI7PtT3hqcXa5Lrdsx3nIvV_e0XEfUgRqc",
+    "cdnImage": "https://assets.manifold.xyz/optimized/4bd5c565c832230682a070d64ab22c398071c3709e54edaf4a123f026bbe5cb3/w_1000.jpg"
+  },
+  "5175": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "20",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/20",
+    "originalImage": "https://arweave.net/N33DhQiYmQpl6NvvNp8bhdLXWcmBXZdMoSvjj4u8wL8",
+    "cdnImage": "https://assets.manifold.xyz/optimized/f10caf112b896c8fe63b24ed65566fa0d744a349c1e8fe1a191649a787ffb0e1/w_1000.jpg"
+  },
+  "5176": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "21",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/21",
+    "originalImage": "https://arweave.net/LjghvV8lyp43-A4K8vD4r4Dx9LRAxpZd2xTlcUp6GeM",
+    "cdnImage": "https://assets.manifold.xyz/optimized/f81eea255d73700423a89c704c28575d79dd48169514b7c0c48aedd76a2112b7/w_1000.jpg"
+  },
+  "5177": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "22",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/22",
+    "originalImage": "https://arweave.net/WbP7yqzGavZKOQa0x6XsGuxdSd5bpDJCJSb-r7ebpLE",
+    "cdnImage": "https://assets.manifold.xyz/optimized/510b7efbc3b840ed02596192d154d61b394b07d391c96dcfdd11ff2aeb98442b/w_1000.jpg"
+  },
+  "5178": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "23",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/23",
+    "originalImage": "https://arweave.net/beMV8M536tHY51jp-kMOktEvagpWryzylZ1sBIkO0z4",
+    "cdnImage": "https://assets.manifold.xyz/optimized/304789fc99945ade97dd8119dbe2dc21cfa09c9f99285b3945fec6ec182bb6db/w_1000.jpg"
+  },
+  "5179": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "24",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/24",
+    "originalImage": "https://arweave.net/dwlSH4s7N7Eb-zTkNA6HzKgvjWL4s9kFhLC3xugvFaI",
+    "cdnImage": "https://assets.manifold.xyz/optimized/a580ed8037d229aec4d000a74e0b7d08cb0162ab4efb9420ea211b8a28e43595/w_1000.jpg"
+  },
+  "5180": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "25",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/25",
+    "originalImage": "https://arweave.net/CUOfQBFSmxTv4IgQPSpui9mCl0lJdjGNroiFtbo0hA0",
+    "cdnImage": "https://assets.manifold.xyz/optimized/b4f0657142f902990cfeefda0872cb1f06e354258bee3c7cf68981fc40a2f4b5/w_1000.jpg"
+  },
+  "5181": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "26",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/26",
+    "originalImage": "https://arweave.net/Agmsz6M9LfkbNap1vGBAliWQ1ZabGY6tfY93BeuMBeg",
+    "cdnImage": "https://assets.manifold.xyz/optimized/bb7eeb9cc84e5073fb795af1bc53a365d672a048f1eec61f02793f90b730a721/w_1000.jpg"
+  },
+  "5182": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "27",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/27",
+    "originalImage": "https://arweave.net/JlRnp8dt5AS71_sQsTJs1jGLFNWnruWZ30rpKXMqVN4",
+    "cdnImage": "https://assets.manifold.xyz/optimized/1bad5f38ff60bd64b4a9aee3d4c3bbae1957c328309b6556c40ba1bc327b03db/w_1000.jpg"
+  },
+  "5183": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "28",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/28",
+    "originalImage": "https://arweave.net/m8FoUa8pCtHK9eABu75wEVyfUNMlOFtHNsxuVIvIFik",
+    "cdnImage": "https://assets.manifold.xyz/optimized/f9dc2ea42e4d1cf51607e1b58fcc55dff0860b0c6b8b2b7f59f06c6acd91de9e/w_1000.jpg"
+  },
+  "5184": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "29",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/29",
+    "originalImage": "https://arweave.net/ujYiOLSHgx911GGF8EjDQGpJgs1Cr6MClM8wY-a2lCs",
+    "cdnImage": "https://assets.manifold.xyz/optimized/47f3a3436aa3d33032c1cfa1322340adbb49428df866ff49ede88303a1a8f042/w_1000.jpg"
+  },
+  "5185": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "30",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/30",
+    "originalImage": "https://arweave.net/p86ZPUD8W_c1BNBtAUgDdpqTRSzZKz5GFpeBQHunY3w",
+    "cdnImage": "https://assets.manifold.xyz/optimized/7f4040d7f8ea4d4d5e95a03abdb78982a56bd731819d00468ed9488c61910855/w_1000.jpg"
+  },
+  "5186": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "31",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/31",
+    "originalImage": "https://arweave.net/Ii2FpfrqjCoZtoMKS5CQkdackokExtgAHC_cBy5icv0",
+    "cdnImage": "https://assets.manifold.xyz/optimized/be8d2ba215a83671a208d0081f449fd37416ad9045677d04b52014a886ade238/w_1000.jpg"
+  },
+  "5187": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "32",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/32",
+    "originalImage": "https://arweave.net/Le_PZFi1KeLOFT5EKAPn1sQj5fmFUzYQm0H0wWxnYgQ",
+    "cdnImage": "https://assets.manifold.xyz/optimized/da6fceadd38acff1fdb8d2a324c8b367e24092ecc6f5a9746bd2e488e8e13b81/w_1000.jpg"
+  },
+  "5188": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "33",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/33",
+    "originalImage": "https://arweave.net/Tu7gZolym4wO0hz5Bwfq9jBgazTsaFTb0ZwTCNLxcXo",
+    "cdnImage": "https://assets.manifold.xyz/optimized/27238c37b298ffb88df851beb6c00c16ee5aaba8553ea058fb26c6b97fe911a4/w_1000.jpg"
+  },
+  "5189": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "34",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/34",
+    "originalImage": "https://arweave.net/8hsGo7mCKerr15bMgcudtWO4bBJcY0uX8x5Y0ZJkqUI",
+    "cdnImage": "https://assets.manifold.xyz/optimized/132048237463c1fa392bdfdc7ac3a1ae948419cfc4e5366c494f988194a620a6/w_1000.jpg"
+  },
+  "5190": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "35",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/35",
+    "originalImage": "https://arweave.net/7ArLLVO4ouLQeijFmqFv14xvutJPrtFNteKz9igiSOk",
+    "cdnImage": "https://assets.manifold.xyz/optimized/ada82adee3840c0a9b9b91ba48781d57e3844a8826a1948066f60d02f6c39117/w_1000.jpg"
+  },
+  "5191": {
+    "contract": "0x9523e213d3929be2c6f48e5dafe2b8a3d4fd3e39",
+    "tokenId": "36",
+    "metadataUrl": "https://arweave.net/ZVo6gW_M8Y_qkZ_r8ikyOEAUQKOwOHEWs34Skwy7QCI/36",
+    "originalImage": "https://arweave.net/ncyzFR_wxQaH-eu6IbMF8PcxdAw2sNmglmFpw3HY7ng",
+    "cdnImage": "https://assets.manifold.xyz/optimized/8f0085d1201f4122d43c3012a6e5a4ab21b7979440938080a1a73c3c07598731/w_1000.jpg"
+  },
+  "5192": {
+    "contract": "0xd89c528ee9a4a31c2b35c703350c9170c2f62473",
+    "tokenId": "1",
+    "metadataUrl": "https://arweave.net/hfabWMXthxEwgpwxiNQQHsOIwSrwcOZ50gabItfGKU0",
+    "originalImage": "https://arweave.net/hx1VuUuirMVC3XbbclAWWtYYVLNqD6lByKEDwxX3eTU",
+    "cdnImage": "https://assets.manifold.xyz/optimized/3cf3edc83152d0b94aa746813e66db5a9f5c0462fd528a1dd6912031e95b18a3/w_1000.jpg"
+  },
+  "5196": {
+    "contract": "0x5d9a2aabbb8dc92875cbd42a5287cf7207fc1473",
+    "tokenId": "1",
+    "metadataUrl": "https://arweave.net/Jtxe9Akl8-i_I-6-fOihJd8fVnuOVZsZi1PHvfEt5uY",
+    "originalImage": "https://arweave.net/FbHFmHpnVdfDJwKzj9ohJL9W1Ehdp2sbuRttvp1kvfw",
+    "cdnImage": "https://assets.manifold.xyz/optimized/973f380534f84853205e2ec7486cdb4534f6c24d2fbc6afa7e2e099fa4b09961/w_1000.jpg"
+  },
+  "5197": {
+    "contract": "0x5d9a2aabbb8dc92875cbd42a5287cf7207fc1473",
+    "tokenId": "2",
+    "metadataUrl": "https://arweave.net/1PESq_V6g-EGMQj-kxBbo4Ts2R6xre60xROnhaR6ZtA",
+    "originalImage": "https://arweave.net/krNc-bVvz5yFbYwoRrV_UgXQJCzfrfYwN0cDRatlbDo",
+    "cdnImage": "https://assets.manifold.xyz/optimized/c25e68e11e7c360d69de2b5c3d2a112c51e63324575c399f6f43db1a303bc2e8/w_1000.jpg"
+  },
+  "5198": {
+    "contract": "0x5d9a2aabbb8dc92875cbd42a5287cf7207fc1473",
+    "tokenId": "3",
+    "metadataUrl": "https://arweave.net/RkSx9QFDLfhnr1ibG6tzSSFrIKx7uFwleTbCgLsGFvc",
+    "originalImage": "https://arweave.net/Vcl-Q4vml10ZhWtTo3Rwt4kZXkgxjUDZnqmVTHkHSK0",
+    "cdnImage": "https://assets.manifold.xyz/optimized/312e533140dd0e37a9dab4115012baf9143a2f75ada305fbfc263173fb187cab/w_1000.jpg"
+  },
+  "5199": {
+    "contract": "0x5d9a2aabbb8dc92875cbd42a5287cf7207fc1473",
+    "tokenId": "4",
+    "metadataUrl": "https://arweave.net/O4FoT2ZdQJn7z5RGoWHTpYWwl_f9MmESKA-1r8foaKg",
+    "originalImage": "https://arweave.net/b65f3mnkM2lr9XEwfcubqk_TkU2Cs2_-gCBd0crXIms",
+    "cdnImage": "https://assets.manifold.xyz/optimized/df5533971ba304481a0fe2db4e863bce0a3eb026b1639acfbdb3e421c97fa2dd/w_1000.jpg"
+  },
+  "5200": {
+    "contract": "0x5d9a2aabbb8dc92875cbd42a5287cf7207fc1473",
+    "tokenId": "5",
+    "metadataUrl": "https://arweave.net/j4PBdFu3MvwEiK55aukk0YNVgvt7Hh4SqEno-SYVn9w",
+    "originalImage": "https://arweave.net/FTZx06k9fVl0irHr6qaXqw1wa_L7bmn8LLLqLTT_r-s",
+    "cdnImage": "https://assets.manifold.xyz/optimized/4702f121f5c45fe7e45a02739dd7147f1a3bc9c9852ef8a2f993dc2484437301/w_1000.jpg"
+  }
+}

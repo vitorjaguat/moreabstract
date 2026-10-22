@@ -1,14 +1,17 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { CardButton, PriceLine, StatusBadge } from './CardParts';
+import useWarmOnView from './useWarmOnView';
 import LazyVideo from './LazyVideo';
 
 // Static replica of Manifold's `m-card-catalog` widget for a video token: the
 // poster shows instantly, the muted loop fades in over it once it is playing.
 export default function Section5Card({ item, listing }) {
+  const warmRef = useWarmOnView(item.id);
+
   return (
     <Link href={`/artwork/${item.id}`} className='block'>
-      <div className='group relative grid border border-white/60 bg-[#333] text-white/[.87] transition-colors duration-200 hover:border-white hover:bg-[#3d3d3d]'>
+      <div ref={warmRef} className='group relative grid border border-white/60 bg-[#333] text-white/[.87] transition-colors duration-200 hover:border-white hover:bg-[#3d3d3d]'>
         <div className='relative aspect-video w-full overflow-hidden'>
           <Image
             src={item.image}

@@ -1,15 +1,17 @@
 import Connect from '../../components/Connect';
 import Listing from '../../components/Listing';
+import WarmUp from '../../components/WarmUp';
+import artworks from '../../data/artworks.json';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 import styles from '../../styles/Listing.module.css';
 
-export default function ListingID() {
+export default function ListingID({ listingId, artwork }) {
   const router = useRouter();
-  const listingId = router.query.listingId;
 
   return (
     <div className='image-aligned w-screen bg-black'>
+      <WarmUp artwork={artwork} />
       {/* -- Add Connect Widget -- */}
       <div className='flex w-full justify-between items-stretch p-8 pb-4 md:pb-8 px-3 md:px-8'>
         <div
@@ -44,4 +46,22 @@ export default function ListingID() {
       </div>
     </div>
   );
+}
+
+// The listing id is known at build time, so it is in the HTML from the first paint
+// (the Manifold widget no longer has to wait for hydration to learn it).
+export function getStaticPaths({ locales }) {
+  const paths = Object.keys(artworks).flatMap((listingId) =>
+    locales.map((locale) => ({ params: { listingId }, locale }))
+  );
+  return { paths, fallback: 'blocking' };
+}
+
+export function getStaticProps({ params }) {
+  return {
+    props: {
+      listingId: params.listingId,
+      artwork: artworks[params.listingId] ?? null,
+    },
+  };
 }

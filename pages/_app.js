@@ -1,7 +1,7 @@
 import '../styles/globals.css';
 import '../styles/marketplace.css';
 import { useEffect } from 'react';
-// import { useRouter } from 'next/router';
+import { useRouter } from 'next/router';
 import localFont from '@next/font/local';
 // import ogImg from '../public/card.jpg';
 import { ParallaxProvider } from 'react-scroll-parallax';
@@ -28,6 +28,10 @@ const din = localFont({
 });
 
 function MyApp({ Component, pageProps }) {
+  // The claims widget is only used on the home page (Section 6) and /claim.
+  const { pathname } = useRouter();
+  const needsClaims = pathname === '/' || pathname === '/claim';
+
   /**
    * NOTE: prior to v3 of marketplace widgets, it was necessary to trigger the `m-refresh-widgets`
    * event when dynamically changing elements on the page/routes.
@@ -231,15 +235,7 @@ function MyApp({ Component, pageProps }) {
             (NXDOMAIN). That failure was breaking hydration for the other
             widgets on the page, including m-card-catalog artwork images. */}
 
-        <script
-          src='https://restrictedtoken.manifoldxyz.dev/0.1.0/restrictedToken.umd.min.js'
-          async
-          defer
-        ></script>
-        <link
-          rel='stylesheet'
-          href='https://restrictedtoken.manifoldxyz.dev/0.1.0/restrictedToken.css'
-        />
+        {/* restrictedToken widget removed: no page uses it (saved ~170 KB of JS per page). */}
 
         <link
           rel='stylesheet'
@@ -257,15 +253,20 @@ function MyApp({ Component, pageProps }) {
         ></script>
         {/* <script src='/scripts/marketplace3310.js' async defer></script> */}
 
-        <script
-          src='https://claims.manifoldxyz.dev/1.10.0/claimComplete.umd.min.js'
-          async
-          defer
-        ></script>
-        <link
-          rel='stylesheet'
-          href='https://claims.manifoldxyz.dev/1.10.0/claimComplete.css'
-        />
+        {/* Claims widget: only on the pages that use it, so /artwork/[id] does not
+            download and parse ~830 KB of unused JS. */}
+        {needsClaims && (
+          <>
+            <link
+              rel='stylesheet'
+              href='https://claims.manifoldxyz.dev/1.10.0/claimComplete.css'
+            />
+            <Script
+              src='https://claims.manifoldxyz.dev/1.10.0/claimComplete.umd.min.js'
+              strategy='afterInteractive'
+            />
+          </>
+        )}
 
         {/* <link
           rel='stylesheet'

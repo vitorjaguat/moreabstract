@@ -1,13 +1,16 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { CardButton, PriceLine, StatusBadge } from './CardParts';
+import useWarmOnView from './useWarmOnView';
 
 // Static replica of Manifold's `m-card-catalog` widget: same layout and colors,
 // but title/image come from data/series.json and price/status from getListings().
 export default function Section3Card({ item, listing }) {
+  const warmRef = useWarmOnView(item.id);
+
   return (
     <Link href={`/artwork/${item.id}`} className='block'>
-      <div className='group relative grid border border-white/60 bg-[#333] text-white/[.87] transition-colors duration-200 hover:border-white hover:bg-[#3d3d3d]'>
+      <div ref={warmRef} className='group relative grid border border-white/60 bg-[#333] text-white/[.87] transition-colors duration-200 hover:border-white hover:bg-[#3d3d3d]'>
         {/* No background here: the WebP's alpha shows the card's #333 through. */}
         <div className='relative aspect-square w-full overflow-hidden'>
           <Image
